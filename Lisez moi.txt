@@ -1,3 +1,11 @@
 # Kerbal-Science-Innovation-FR
 
-Pour installer la version française, vous devez aller dans
+Pour installer la version française, vous devez aller dans Mythological-Space-Administration/KSI/Localisation
+
+Une fois dans se fichier, suprimer le fichier de configuration "en-us" et ajouter le fichier de configuration "en-us" qui se trouve dans se reprosite
+
+Lancer KSP et bon jeu
+
+Cordialement 
+
+Oursshinigami
